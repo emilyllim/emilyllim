@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🗣️ LinkedIn: [emilyllim](https://www.linkedin.com/in/emilyllim/)
+- 💻 Portfolio: [emilyllim.com](https://emilyllim.com/)
+- 💾: DevPost: [emilyllim](https://devpost.com/emilyllim)
 
+Hello, my name is Emily! I recently graduated with my **Bachelor of Science in Computer Science** from **Washington State University Vancouver**, and have participated in two fellowships. During the **Production Engineering fellowship**, I had the opportunity to explore the capabilities of **DevOps** through hands-on experiences (including the creation and maintenance of my portfolio!). As part of the **Software Engineering fellowship**, I explored open source projects and assisted in initiatives to enhance Python performance. These experiences have fueled my passion to troubleshoot and solve real-world challenges that will make a difference in the world.
+
+With my strong foundation in **Software Engineering** and **DevOps** concepts obtained through relevant coursework and previous work experiences, I am actively seeking a new opportunity to contribute and grow my skills, while working within a fast-paced, collaborative professional environment.
